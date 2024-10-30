@@ -6,3 +6,10 @@ pandas
 numpy
 streamlit
 plotly-express
+matplotlib
+seaborn
+scikit-learn
+xgboost
+joblib
+wordcloud
+category-encoders
